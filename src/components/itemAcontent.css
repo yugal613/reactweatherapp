@@ -1,0 +1,47 @@
+.search-input-box {
+    letter-spacing: 2px;
+    color: #ffffff;
+    padding: 2px;
+    width: 255px;
+    height: 55px;
+    border-radius: 15px;
+    margin-top: 26px;
+    margin-left: 28px;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid #ffffff;
+    background-color: transparent;
+}
+
+.itemA-main-container-image {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 79px;
+    /* background-color: brown; */
+    width: 140px;
+    height: 140px;
+    border-radius: 20px;
+}
+
+.cityname {
+    letter-spacing: 2px;
+    color: #ffffff;
+    margin-top: 5px;
+    margin-left: 37px;
+    font-size: 15px;
+}
+
+.temp {
+    letter-spacing: 2px;
+    color: white;
+    margin-left: 30px;
+    margin-top: 19px;
+    font-size: 35px;
+}
+
+.datetime-size {
+    letter-spacing: 2px;
+    color: white;
+    margin-left: 30px;
+    font-size: 20px;
+}
